@@ -8,4 +8,7 @@ welcome to **Byte Bites**, the first food truck run *entirely* by student coders
 - **Lunch** 
     - chopped cheese
     - veggie tacos
-    - fresh *lemonade*  
+    - fresh *lemonade* 
+    ---
+    ## How Our Ordering App Works
+    Every order is added up by our app. We use `total` variable to keep track of the price: 
