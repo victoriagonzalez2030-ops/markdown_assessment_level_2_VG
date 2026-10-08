@@ -4,6 +4,8 @@ welcome to **Byte Bites**, the first food truck run *entirely* by student coders
 ## Today's Menu
 - **Breakfast**
    - bacon, egg, and cheese  
-   -mango smoothie
-
+   - mango smoothie
 - **Lunch** 
+    - chopped cheese
+    - veggie tacos
+    - fresh *lemonade*  
